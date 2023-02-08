@@ -1,0 +1,11 @@
+MERN
+
+1. Start with:-
+  *) If 2 people are working one on backend otheron frontend, 
+     then the frontend person needs api access.
+     a. backend
+     b. frontend
+
+  *) Both can work simultaneously maintainig some document 
+     ex:- Routes and what response is expected.
+     -frontend and backend simultaneously.
